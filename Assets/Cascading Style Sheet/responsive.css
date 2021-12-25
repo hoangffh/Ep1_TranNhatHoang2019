@@ -1,0 +1,21 @@
+@media(max-width:63.9375em)
+{
+
+}
+@media(max-width:46.1875em){
+    .header{
+        overflow: hidden;
+    }
+    .content_select
+    {
+       overflow: hidden;
+    }
+    .contact
+    {
+        flex-direction: column;
+    }
+    .footer
+    {
+        overflow: hidden;
+    }
+}
